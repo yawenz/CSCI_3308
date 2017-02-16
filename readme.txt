@@ -1,4 +1,1 @@
-hello world
-make some conflict
-another conflict
-hahahaha
+Repo for CSCI 3308
